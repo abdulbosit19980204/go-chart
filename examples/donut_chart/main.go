@@ -19,6 +19,7 @@ func main() {
 			{Value: 4, Label: "Orange"},
 			{Value: 3, Label: "Deep Blue"},
 			{Value: 3, Label: "test"},
+			{Value: 5, Label: "Meniki"},
 		},
 	}
 
